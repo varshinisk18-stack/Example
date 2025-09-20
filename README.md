@@ -1,2 +1,3 @@
 # Example
-Sample first repo
+# Sample first repo
+print "Hello World"
